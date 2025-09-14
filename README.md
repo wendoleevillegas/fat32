@@ -1,5 +1,5 @@
 
-Description
+Description <br>
 This assignment will familiarize you with the FAT32 file system. You will become familiar with file allocation tables, endieness, as well as file access. You will implement a user space shell application that is capable of interpreting a FAT32 file system image. The utility must not corrupt the file system image and should be robust. No existing kernel code or any other FAT 32 utility code may be used in your program. The code you submit for this assignment will be verified against a database consisting of github code, stackoverflow, previous student’s submissions and other internet resources. Code that is not 100% your own code will result in a grade of 0 and referral to the Office of Student Conduct.
 
 Your program shall be named mfs.c and shall be implemented in C or C++. You shall not use the system calls system(), fork(), or any of the exec family of system calls. You may not mount the disk image.
